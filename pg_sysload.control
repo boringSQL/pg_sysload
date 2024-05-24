@@ -1,0 +1,5 @@
+comment = 'pg_sysload:  Created by pgrx'
+default_version = '@CARGO_VERSION@'
+module_pathname = '$libdir/pg_sysload'
+relocatable = false
+superuser = true
